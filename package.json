@@ -1,0 +1,28 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Node.js Restful CRUD API with Node.js, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "rairu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-stringify": "^6.5.2",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "hbs": "^4.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.9"
+  }
+}

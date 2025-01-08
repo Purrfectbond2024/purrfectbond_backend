@@ -1,0 +1,354 @@
+pet_id,Type,Age,Gender,Vaccinated,Spayed/Neutered,AdoptionStory,Extracted_Temperaments
+1,Dog,Puppy,Female,Yes,No,adopted,active
+2,Dog,Puppy,Male,No,No,adopted,"cute, playful, cute, loving"
+6,Dog,Puppy,Male,Yes,No,rescued,"active, loving"
+7,Dog,Adult,Male,Not Sure,Not Sure,rescued,"friendly, loyal"
+9,Dog,Puppy,Female,No,Yes,adopted,active
+10,Dog,Adult,Female,No,Yes,rescued,loving
+11,Dog,Puppy,Female,Yes,Yes,rescued,friendly
+14,Dog,Adult,Male,Yes,No,adopted,active
+15,Dog,Adult,Male,No,No,rescued,"loving, friendly"
+17,Dog,Puppy,Male,Yes,Yes,adopted,"friendly, active, playful"
+18,Dog,Adult,Male,No,Yes,adopted,sweet
+20,Dog,Adult,Female,Yes,Yes,adopted,"calm, gentle, friendly, loyal, obedient"
+22,Dog,Puppy,Male,Yes,No,adopted,loving
+23,Dog,Puppy,Female,Not Sure,Not Sure,adopted,"active, obedient, cute"
+25,Dog,Adult,Female,Yes,Yes,adopted,"friendly, easy"
+26,Dog,Puppy,Male,No,No,adopted,active
+27,Dog,Puppy,Male,Yes,Not Sure,adopted,friendly
+30,Dog,Adult,Male,Yes,Yes,adopted,friendly
+31,Dog,Puppy,Male,Yes,No,rescued,active
+32,Dog,Puppy,Female,No,No,rescued,"active, friendly"
+33,Dog,Adult,Female,Yes,Yes,adopted,"active, playful, obedient"
+34,Dog,Puppy,Female,Yes,No,rescued,cute
+35,Dog,Puppy,Male,No,No,adopted,calm
+36,Dog,Puppy,Male,Not Sure,No,adopted,sweet
+38,Dog,Adult,Female,Yes,Yes,adopted,"fast, wise, smart"
+39,Dog,Puppy,Male,Yes,No,adopted,"cute, playful"
+40,Dog,Puppy,Female,Not Sure,Yes,adopted,"cute, obedient, friendly, playful, active"
+41,Dog,Adult,Female,Not Sure,Yes,rescued,"protective, friendly"
+42,Dog,Adult,Male,Yes,Yes,adopted,obedient
+44,Dog,Puppy,Female,No,No,adopted,"playful, sweet"
+46,Dog,Puppy,Female,Yes,No,adopted,active
+48,Dog,Senior,Male,Not Sure,Not Sure,rescued,"warm, obedient, easy, precious, loving"
+49,Dog,Puppy,Female,No,No,adopted,"playful, loving"
+50,Dog,Adult,Female,Yes,No,adopted,friendly
+52,Dog,Adult,Male,Yes,Yes,adopted,"loving, sweet, funny, loving, affectionate, sweet, fast, loving"
+53,Dog,Adult,Male,Yes,No,adopted,smart
+55,Dog,Puppy,Male,Yes,Yes,rescued,gentle
+56,Dog,Adult,Female,Not Sure,Not Sure,rescued,"loving, loving"
+57,Dog,Puppy,Male,Yes,No,rescued,"sweet, friendly, playful"
+58,Dog,Puppy,Female,No,No,adopted,"affectionate, warm, cute, loving"
+61,Dog,Puppy,Male,No,No,adopted,cute
+62,Dog,Adult,Female,Yes,Yes,adopted,"gentle, playful"
+63,Dog,Adult,Female,Yes,Yes,rescued,"sweet, calm, gentle, loyal"
+65,Dog,Adult,Male,Yes,Yes,rescued,loving
+69,Dog,Adult,Female,Not Sure,Not Sure,rescued,friendly
+70,Dog,Adult,Male,Yes,Yes,adopted,energetic
+72,Dog,Adult,Male,Yes,Yes,rescued,"loving, warm, smart, warm"
+75,Dog,Puppy,Male,Yes,No,adopted,sweet
+77,Dog,Adult,Male,Yes,No,adopted,"playful, obedient"
+78,Dog,Adult,Male,Not Sure,No,rescued,active
+79,Dog,Adult,Female,Yes,No,rescued,"tender, loving"
+80,Dog,Puppy,Male,No,No,adopted,"cute, sweet"
+81,Dog,Adult,Female,Yes,Yes,adopted,"friendly, independent"
+82,Dog,Puppy,Female,No,No,adopted,playful
+83,Dog,Puppy,Female,No,No,adopted,playful
+85,Dog,Adult,Female,Yes,Not Sure,adopted,"cute, loving, gentle"
+87,Dog,Puppy,Male,Yes,Not Sure,adopted,playful
+89,Dog,Puppy,Male,Yes,Yes,adopted,friendly
+92,Dog,Puppy,Female,No,No,rescued,"cute, cute, playful, soft"
+93,Dog,Puppy,Male,No,No,adopted,loyal
+94,Dog,Adult,Male,Yes,Yes,rescued,"loving, loving"
+96,Dog,Puppy,Female,No,No,adopted,sweet
+100,Dog,Adult,Female,Yes,No,adopted,"cute, active"
+104,Dog,Puppy,Female,Yes,No,adopted,playful
+105,Dog,Puppy,Female,Yes,No,adopted,"friendly, playful, cute"
+111,Dog,Adult,Female,Yes,Yes,adopted,loving
+112,Dog,Puppy,Male,No,No,adopted,active
+113,Dog,Puppy,Female,No,No,adopted,"friendly, funny"
+114,Dog,Puppy,Male,Yes,No,rescued,"friendly, cute"
+115,Dog,Puppy,Female,Yes,No,rescued,"active, energetic"
+117,Dog,Adult,Male,Yes,Yes,adopted,playful
+118,Dog,Puppy,Female,Yes,No,rescued,sweet
+119,Dog,Adult,Female,Not Sure,Yes,adopted,"affectionate, cute, sweet, loving"
+122,Dog,Puppy,Female,No,No,adopted,active
+124,Dog,Adult,Female,Yes,Yes,rescued,"loyal, obedient"
+125,Dog,Adult,Male,Yes,Yes,adopted,"obedient, playful, gentle"
+127,Dog,Puppy,Female,Yes,No,rescued,"loving, playful"
+129,Dog,Puppy,Female,No,No,adopted,active
+132,Dog,Adult,Female,Yes,Yes,adopted,active
+133,Dog,Puppy,Male,Yes,No,adopted,playful
+134,Dog,Puppy,Female,No,Yes,adopted,friendly
+135,Dog,Puppy,Female,No,No,rescued,"loving, smart, easy, friendly, loving, obedient, obedient, loyal"
+137,Dog,Puppy,Female,No,No,adopted,"cute, friendly"
+138,Dog,Adult,Female,Not Sure,Yes,adopted,loving
+139,Dog,Puppy,Female,Yes,Yes,adopted,"playful, loyal"
+140,Dog,Puppy,Male,No,No,adopted,"cute, calm"
+142,Dog,Puppy,Male,Yes,No,rescued,cute
+144,Dog,Adult,Male,Not Sure,Not Sure,adopted,smart
+145,Dog,Adult,Female,Yes,Yes,adopted,"sweet, sweet"
+146,Dog,Puppy,Female,Yes,No,adopted,"sweet, friendly, playful, sweet"
+147,Dog,Puppy,Female,Yes,Yes,rescued,cute
+150,Dog,Puppy,Male,No,No,adopted,cute
+151,Dog,Puppy,Female,Yes,No,rescued,calm
+152,Dog,Puppy,Female,Yes,No,adopted,calm
+155,Dog,Puppy,Male,Yes,No,adopted,active
+162,Dog,Puppy,Male,Yes,No,rescued,smart
+163,Dog,Puppy,Female,Not Sure,No,adopted,affectionate
+165,Dog,Puppy,Female,Yes,No,adopted,"smart, easy"
+166,Dog,Puppy,Female,No,No,adopted,"warm, loving, active, cute"
+168,Dog,Adult,Male,Yes,Yes,adopted,"protective, active, loyal"
+170,Dog,Puppy,Female,No,No,rescued,gentle
+172,Dog,Puppy,Female,No,No,rescued,"soft, smart"
+173,Dog,Puppy,Male,No,No,rescued,"docile, obedient, active, playful, loyal, gentle"
+174,Dog,Puppy,Male,Yes,No,adopted,loving
+175,Dog,Puppy,Male,No,No,rescued,loving
+179,Dog,Adult,Female,Yes,No,adopted,"loving, loving"
+180,Dog,Puppy,Female,Yes,No,adopted,friendly
+181,Dog,Puppy,Female,Not Sure,Not Sure,rescued,"playful, active"
+182,Dog,Puppy,Male,No,No,adopted,smart
+186,Dog,Puppy,Female,Yes,No,rescued,easy
+188,Dog,Puppy,Female,No,No,rescued,energetic
+189,Dog,Adult,Female,No,No,rescued,"protective, sweet, fast, gentle"
+191,Dog,Puppy,Female,No,No,rescued,warm
+195,Dog,Adult,Female,Yes,Yes,adopted,friendly
+197,Dog,Puppy,Male,Yes,Yes,adopted,playful
+198,Dog,Puppy,Female,Yes,No,adopted,"cute, cute"
+200,Dog,Puppy,Female,Yes,Yes,rescued,"gentle, gentle, gentle, easy, loyal, affectionate, gentle, friendly, friendly, docile"
+201,Dog,Puppy,Male,Yes,No,rescued,"obedient, smart"
+202,Dog,Puppy,Male,Not Sure,Not Sure,adopted,cute
+205,Dog,Adult,Male,Yes,Yes,rescued,friendly
+207,Dog,Adult,Female,Yes,No,adopted,"smart, friendly"
+208,Dog,Adult,Female,Yes,Yes,rescued,"playful, cute, active"
+211,Dog,Puppy,Male,No,No,adopted,obedient
+212,Dog,Puppy,Female,No,No,adopted,cute
+214,Dog,Adult,Male,Not Sure,Not Sure,adopted,"playful, active"
+215,Dog,Adult,Female,Not Sure,Not Sure,rescued,loving
+217,Dog,Adult,Female,Yes,Not Sure,rescued,"friendly, gentle"
+219,Dog,Puppy,Male,Yes,No,adopted,friendly
+221,Dog,Puppy,Female,Yes,No,adopted,"soft, sweet"
+222,Dog,Puppy,Female,Not Sure,No,rescued,"playful, cute"
+223,Dog,Adult,Female,Not Sure,Not Sure,adopted,sweet
+224,Dog,Adult,Female,Not Sure,No,rescued,cute
+225,Dog,Puppy,Female,No,No,adopted,protective
+227,Dog,Adult,Male,Yes,Yes,rescued,"playful, loving"
+229,Dog,Puppy,Male,Yes,No,adopted,smart
+230,Dog,Adult,Male,Yes,Yes,adopted,"obedient, smart"
+231,Dog,Puppy,Female,Not Sure,No,adopted,friendly
+233,Dog,Puppy,Male,Not Sure,Not Sure,rescued,friendly
+235,Dog,Puppy,Male,No,Not Sure,adopted,cute
+237,Dog,Adult,Male,Yes,Yes,adopted,"sweet, playful, warm, friendly"
+239,Dog,Puppy,Female,No,Not Sure,adopted,friendly
+240,Dog,Puppy,Female,Yes,No,rescued,cute
+242,Dog,Puppy,Male,Yes,Yes,rescued,friendly
+246,Dog,Puppy,Male,No,No,rescued,loving
+247,Dog,Puppy,Female,Yes,No,rescued,active
+248,Dog,Puppy,Male,Yes,Yes,adopted,"energetic, friendly, playful"
+251,Dog,Adult,Male,Yes,Yes,rescued,"friendly, active"
+252,Dog,Puppy,Female,Yes,No,rescued,gentle
+254,Dog,Adult,Male,Yes,Yes,rescued,loving
+258,Dog,Puppy,Female,Yes,Yes,adopted,"loving, cute"
+259,Dog,Adult,Female,Not Sure,Yes,adopted,"loving, loving, loving"
+260,Dog,Puppy,Male,Yes,No,adopted,friendly
+261,Dog,Adult,Female,Not Sure,Not Sure,rescued,"friendly, independent, loving"
+264,Dog,Puppy,Male,Yes,Yes,adopted,"affectionate, friendly, loving"
+267,Dog,Adult,Male,No,No,rescued,playful
+268,Dog,Puppy,Female,No,No,adopted,cute
+269,Dog,Adult,Male,Yes,No,adopted,playful
+270,Dog,Puppy,Male,No,No,adopted,"active, playful"
+273,Dog,Adult,Female,Yes,Yes,adopted,sweet
+277,Dog,Puppy,Male,No,No,rescued,main
+278,Dog,Senior,Female,Yes,Yes,adopted,friendly
+280,Dog,Puppy,Female,No,No,rescued,soft
+284,Dog,Puppy,Male,Yes,No,adopted,"active, obedient"
+285,Dog,Adult,Male,Yes,Yes,adopted,firm
+286,Dog,Puppy,Female,No,Yes,adopted,"warm, obedient"
+288,Dog,Adult,Female,Yes,Yes,adopted,active
+292,Dog,Puppy,Female,Yes,No,rescued,"sweet, loyal"
+293,Dog,Puppy,Female,No,No,adopted,"active, playful, loving"
+294,Dog,Puppy,Male,Not Sure,No,adopted,sweet
+297,Dog,Puppy,Male,No,Not Sure,adopted,loving
+298,Dog,Adult,Male,Yes,No,adopted,playful
+300,Dog,Puppy,Female,Yes,No,adopted,"smart, obedient"
+302,Dog,Puppy,Male,No,No,adopted,loving
+303,Dog,Puppy,Male,Not Sure,Not Sure,rescued,active
+305,Dog,Puppy,Female,Not Sure,Not Sure,adopted,"cute, independent, cute"
+306,Dog,Adult,Male,Yes,Yes,adopted,"sweet, loving"
+308,Dog,Puppy,Female,Not Sure,Not Sure,adopted,friendly
+309,Dog,Adult,Male,Not Sure,Yes,adopted,sweet
+310,Dog,Puppy,Male,Yes,No,rescued,cute
+311,Dog,Puppy,Female,Not Sure,No,rescued,"soft, loving"
+314,Dog,Puppy,Female,Yes,No,adopted,fast
+317,Dog,Puppy,Male,No,No,adopted,cute
+318,Dog,Adult,Female,Yes,Yes,rescued,"active, smart, loving, loving"
+320,Dog,Adult,Female,Yes,No,adopted,active
+321,Dog,Puppy,Male,No,No,adopted,playful
+322,Dog,Adult,Male,Yes,No,rescued,"active, friendly, loving"
+323,Dog,Adult,Male,Yes,No,adopted,smart
+325,Dog,Adult,Female,No,No,adopted,"friendly, sweet, energetic, friendly"
+328,Dog,Adult,Female,Yes,Yes,adopted,"loving, friendly, loyal"
+331,Dog,Adult,Female,Yes,Yes,adopted,loyal
+332,Dog,Puppy,Female,No,No,adopted,"sweet, playful"
+333,Dog,Adult,Male,No,No,adopted,friendly
+334,Dog,Puppy,Female,Yes,No,rescued,loving
+335,Dog,Puppy,Male,Yes,No,rescued,"gentle, gentle, soft"
+338,Dog,Puppy,Male,No,No,adopted,loving
+344,Dog,Adult,Male,Yes,No,rescued,friendly
+345,Dog,Puppy,Male,Yes,No,adopted,active
+347,Dog,Adult,Male,Not Sure,Not Sure,adopted,"gentle, sweet"
+348,Dog,Adult,Female,Yes,No,adopted,"active, friendly"
+349,Dog,Puppy,Male,No,No,adopted,smart
+352,Dog,Adult,Female,Yes,Yes,adopted,main
+353,Dog,Puppy,Male,Yes,Not Sure,adopted,energetic
+354,Dog,Puppy,Male,No,No,rescued,"cute, active"
+355,Dog,Puppy,Female,Not Sure,No,adopted,playful
+356,Dog,Puppy,Female,No,No,rescued,"loyal, warm, sweet, loving"
+358,Dog,Adult,Male,Yes,Yes,adopted,"affectionate, calm"
+359,Dog,Puppy,Female,No,No,rescued,"smart, obedient"
+361,Dog,Puppy,Male,No,No,adopted,playful
+362,Dog,Adult,Male,No,Yes,rescued,"loving, easy"
+363,Dog,Adult,Male,Not Sure,Not Sure,adopted,"active, playful"
+364,Dog,Puppy,Female,Yes,Not Sure,rescued,playful
+365,Dog,Adult,Female,Yes,Yes,adopted,playful
+366,Dog,Adult,Male,Yes,Yes,adopted,"active, loving, friendly"
+370,Dog,Adult,Male,Yes,Yes,adopted,"playful, loving"
+371,Dog,Adult,Male,Not Sure,No,adopted,"friendly, obedient"
+373,Dog,Puppy,Female,Yes,Yes,adopted,sweet
+374,Dog,Puppy,Female,Yes,No,rescued,"active, smart"
+378,Dog,Puppy,Female,Yes,Yes,rescued,playful
+380,Dog,Puppy,Male,No,No,adopted,loving
+382,Dog,Puppy,Female,Yes,No,adopted,energetic
+385,Dog,Puppy,Female,No,No,rescued,"friendly, main"
+386,Dog,Adult,Male,Yes,Yes,adopted,"playful, energetic, smart"
+389,Dog,Adult,Male,Yes,No,adopted,"active, loyal"
+391,Dog,Puppy,Female,Yes,Yes,adopted,"loving, cute"
+392,Dog,Puppy,Female,Yes,No,adopted,"active, playful, gentle, sweet, fast"
+393,Dog,Adult,Male,Not Sure,No,adopted,gentle
+394,Dog,Adult,Male,Yes,No,adopted,"active, active"
+396,Dog,Adult,Male,Yes,Yes,adopted,"loving, affectionate"
+397,Dog,Puppy,Female,Yes,No,adopted,"cute, tender"
+400,Dog,Puppy,Male,Yes,Yes,adopted,active
+402,Dog,Puppy,Male,Yes,Yes,adopted,playful
+403,Dog,Puppy,Female,No,No,rescued,friendly
+406,Dog,Puppy,Male,No,No,rescued,warm
+407,Dog,Puppy,Male,Yes,Not Sure,adopted,"active, friendly, playful"
+408,Dog,Puppy,Male,Yes,Yes,adopted,active
+409,Dog,Puppy,Female,Yes,No,rescued,loving
+410,Dog,Puppy,Female,Yes,No,adopted,cute
+412,Dog,Puppy,Male,No,Yes,adopted,active
+413,Dog,Puppy,Female,Yes,No,rescued,friendly
+415,Dog,Adult,Female,Yes,Yes,rescued,"playful, obedient, obedient"
+416,Dog,Puppy,Female,Yes,Yes,adopted,affectionate
+417,Dog,Puppy,Male,Not Sure,Yes,rescued,"cute, sweet, sweet"
+419,Dog,Adult,Female,Yes,No,adopted,"friendly, loving"
+421,Dog,Puppy,Female,Yes,Yes,adopted,"gentle, loving, obedient, loving"
+422,Dog,Puppy,Male,No,No,adopted,"cute, sweet, playful"
+423,Dog,Puppy,Female,Yes,No,adopted,friendly
+426,Dog,Puppy,Male,Yes,No,adopted,"gentle, obedient, playful"
+427,Dog,Adult,Female,Yes,Not Sure,rescued,friendly
+428,Dog,Puppy,Female,Yes,No,adopted,"friendly, loving"
+430,Dog,Adult,Female,Yes,Yes,adopted,"protective, loving"
+431,Dog,Puppy,Female,Yes,Yes,rescued,"sweet, gentle, obedient, loving, loving, sweet"
+432,Dog,Adult,Female,Yes,Not Sure,adopted,"cute, playful, gentle"
+433,Dog,Puppy,Female,No,No,adopted,"cute, active, independent, sweet"
+434,Dog,Senior,Female,Not Sure,Not Sure,adopted,sweet
+436,Dog,Adult,Female,Yes,Yes,adopted,friendly
+438,Dog,Puppy,Female,Yes,Yes,adopted,"loyal, friendly"
+442,Dog,Adult,Female,Yes,No,adopted,cute
+443,Dog,Puppy,Female,No,No,adopted,sweet
+444,Dog,Puppy,Male,Yes,No,adopted,"cute, playful, fast"
+446,Dog,Adult,Female,Yes,Yes,adopted,"active, soft, warm, active, active"
+447,Dog,Puppy,Male,No,No,rescued,sweet
+448,Dog,Puppy,Male,Yes,Yes,adopted,"friendly, smart, fast"
+450,Dog,Puppy,Male,No,No,rescued,"playful, warm, loyal"
+452,Dog,Senior,Female,Yes,Yes,rescued,friendly
+453,Dog,Adult,Male,Not Sure,Not Sure,adopted,sweet
+454,Dog,Puppy,Female,Yes,No,adopted,sweet
+455,Dog,Puppy,Female,No,Yes,adopted,"friendly, gentle"
+456,Dog,Adult,Female,Yes,No,adopted,playful
+459,Dog,Puppy,Male,Yes,No,rescued,loving
+461,Dog,Puppy,Male,Yes,Yes,adopted,energetic
+464,Dog,Adult,Male,Yes,Yes,adopted,"smart, loyal"
+465,Dog,Adult,Female,Yes,No,adopted,"playful, friendly, friendly"
+468,Dog,Puppy,Female,No,No,adopted,loyal
+469,Dog,Senior,Female,Not Sure,Not Sure,rescued,warm
+470,Dog,Adult,Female,Not Sure,Not Sure,rescued,"cute, loving, loving"
+471,Dog,Puppy,Female,Yes,No,rescued,"friendly, playful, active"
+472,Dog,Puppy,Female,No,No,adopted,friendly
+475,Dog,Puppy,Male,Yes,No,adopted,obedient
+476,Dog,Puppy,Female,No,No,adopted,sweet
+477,Dog,Puppy,Female,No,No,adopted,warm
+479,Dog,Adult,Male,Yes,No,adopted,playful
+481,Dog,Puppy,Male,Not Sure,Not Sure,rescued,"friendly, smart"
+483,Dog,Puppy,Male,Yes,Yes,adopted,playful
+484,Dog,Puppy,Male,No,No,rescued,active
+485,Dog,Puppy,Male,No,No,adopted,"funny, active"
+487,Dog,Puppy,Female,No,No,adopted,"active, cute"
+488,Dog,Puppy,Male,Yes,Yes,rescued,"sweet, friendly, sweet"
+489,Dog,Adult,Male,Yes,No,adopted,"friendly, playful, active, obedient, smart"
+492,Dog,Adult,Female,No,Yes,adopted,"loving, active, fast"
+493,Dog,Puppy,Female,Not Sure,Not Sure,rescued,friendly
+495,Dog,Adult,Female,Not Sure,Not Sure,rescued,loving
+496,Dog,Puppy,Female,No,No,rescued,loving
+497,Dog,Puppy,Female,No,Not Sure,rescued,"sweet, active"
+499,Dog,Adult,Male,Yes,Yes,rescued,sweet
+500,Dog,Puppy,Female,Not Sure,Not Sure,rescued,"friendly, gentle, playful, loving"
+501,Dog,Puppy,Female,Yes,No,adopted,cute
+503,Dog,Puppy,Female,Yes,Yes,adopted,"active, cute"
+504,Dog,Puppy,Female,Yes,Not Sure,adopted,"loving, playful"
+505,Dog,Adult,Male,Yes,Yes,adopted,"cute, smart, friendly"
+507,Dog,Puppy,Female,No,No,adopted,"playful, affectionate"
+508,Dog,Adult,Male,Yes,No,adopted,smart
+511,Dog,Adult,Male,Yes,No,adopted,"docile, friendly"
+512,Dog,Puppy,Female,Yes,No,rescued,"playful, friendly"
+513,Dog,Puppy,Female,No,No,adopted,"friendly, active, loving"
+516,Dog,Puppy,Female,Yes,Yes,rescued,"loving, loving, friendly"
+517,Dog,Puppy,Female,Not Sure,Yes,adopted,"playful, friendly"
+519,Dog,Puppy,Female,Yes,Yes,adopted,"cute, friendly"
+520,Dog,Puppy,Female,Yes,No,adopted,loving
+525,Dog,Puppy,Male,No,No,adopted,loving
+526,Dog,Adult,Male,No,No,adopted,active
+527,Dog,Puppy,Female,Not Sure,Not Sure,adopted,active
+533,Dog,Puppy,Male,No,No,rescued,friendly
+534,Dog,Puppy,Male,No,No,adopted,active
+535,Dog,Puppy,Male,Not Sure,Not Sure,rescued,"cute, active, smart"
+536,Dog,Puppy,Male,No,No,adopted,playful
+537,Dog,Puppy,Male,Yes,No,rescued,"friendly, playful"
+540,Dog,Adult,Male,Yes,Yes,adopted,friendly
+541,Dog,Adult,Female,Not Sure,No,rescued,loving
+542,Dog,Adult,Female,Yes,No,adopted,"loyal, playful"
+543,Dog,Adult,Male,Yes,No,adopted,active
+544,Dog,Adult,Male,Yes,Yes,adopted,"friendly, playful"
+545,Dog,Adult,Female,Yes,Yes,rescued,friendly
+546,Dog,Adult,Male,Yes,Yes,rescued,"gentle, friendly"
+547,Dog,Puppy,Female,No,No,rescued,"loving, loving"
+548,Dog,Adult,Female,Yes,Yes,rescued,loving
+549,Dog,Puppy,Female,Yes,No,adopted,obedient
+550,Dog,Adult,Female,Yes,Yes,rescued,"loving, loving"
+553,Dog,Puppy,Female,Yes,No,rescued,fast
+555,Dog,Puppy,Female,No,No,adopted,"active, playful"
+556,Dog,Puppy,Female,No,No,adopted,loving
+557,Dog,Puppy,Male,No,No,rescued,loving
+558,Dog,Adult,Male,Yes,No,adopted,fast
+560,Dog,Adult,Male,No,No,rescued,"cute, active, energetic"
+564,Dog,Puppy,Female,Yes,Not Sure,adopted,cute
+565,Dog,Adult,Female,Yes,Yes,adopted,"friendly, friendly"
+566,Dog,Adult,Female,Not Sure,Not Sure,adopted,playful
+569,Dog,Puppy,Female,Not Sure,Not Sure,adopted,loving
+574,Dog,Puppy,Male,Yes,No,rescued,"playful, active"
+575,Dog,Puppy,Female,No,No,adopted,cute
+579,Dog,Puppy,Female,Yes,Not Sure,adopted,friendly
+580,Dog,Puppy,Female,Yes,Yes,adopted,fast
+581,Dog,Puppy,Male,Yes,No,rescued,cute
+583,Dog,Puppy,Female,Yes,No,rescued,"sweet, loving"
+585,Dog,Puppy,Male,Yes,No,adopted,playful
+587,Dog,Adult,Female,Not Sure,Not Sure,adopted,warm
+588,Dog,Puppy,Female,Yes,No,adopted,active
+589,Dog,Puppy,Female,No,No,rescued,friendly
+591,Dog,Puppy,Female,Yes,No,rescued,loving
+592,Dog,Adult,Female,No,No,adopted,playful
+594,Dog,Adult,Female,No,Yes,rescued,friendly
+595,Dog,Adult,Male,Yes,Yes,rescued,active
+596,Dog,Adult,Male,Yes,Yes,adopted,"playful, smart"
+597,Dog,Adult,Female,Yes,Yes,adopted,"loving, friendly, loving, obedient"

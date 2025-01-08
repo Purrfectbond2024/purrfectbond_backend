@@ -1,0 +1,12 @@
+1. What type of pet are you interested in adopting?,2. What age range of pet are you interested in? ,3. Do you have a preference for the pet’s gender? ,4. What kind of story would you prefer behind your pet's adoption?,5. Would you prefer your pet to be spayed/neutered at the time of adoption?,6. Would you prefer your pet to be vaccinated at the time of adoption?,7. What temperament are you looking for in a pet? 
+Dog,Puppy,Male,Adopted,Neutered,Partially vaccinated,Playful
+Cat,Adult,Male,Rescued,Spayed,Fully Vaccinated,"Playful, Smart"
+Dog,Adult,No preference,Adopted,Not yet spayed or neutered,Fully Vaccinated,"Playful, Independent, Friendly"
+Dog,Puppy,Female,Adopted,Spayed,Vaccinated,"Calm, Protective"
+Cat,Kitten,No preference,Adopted,Neutered,Fully Vaccinated,"Calm, Protective, Gentle"
+Cat,Kitten,Male,Adopted,Not yet spayed or neutered,Not vaccinated,Playful
+Dog,Puppy,Female,Adopted,Not yet spayed or neutered,Not vaccinated,Playful
+Cat,Kitten,No preference,Rescued,Neutered,Fully Vaccinated,"Playful, Smart"
+Dog,Adult,Male,Adopted,Not yet spayed or neutered,Partially vaccinated,"Independent, Active"
+Dog,Puppy,No preference,Adopted,Spayed,Fully Vaccinated,"Smart, Sweet, obedient"
+Cat,Adult,Female,Rescued,Not yet spayed or neutered,Partially vaccinated,"Playful, Sweet, Loving"

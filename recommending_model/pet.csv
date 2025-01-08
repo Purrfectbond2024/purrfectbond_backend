@@ -1,0 +1,601 @@
+Type,Age,Gender,Vaccinated,Spayed/Neutered,AdoptionStory,Extracted_Temperaments
+Cat,Kitten,Male,No,No,rescued,"energetic, playful"
+Dog,Puppy,Female,Yes,No,adopted,active
+Dog,Puppy,Male,No,No,adopted,"cute, playful, cute, loving"
+Cat,Kitten,Female,No,No,adopted,active
+Cat,Adult,Female,Not Sure,Not Sure,rescued,"gentle, cute, soft"
+Cat,Kitten,Female,Yes,No,adopted,"playful, active"
+Dog,Puppy,Male,Yes,No,rescued,"active, loving"
+Dog,Adult,Male,Not Sure,Not Sure,rescued,"friendly, loyal"
+Cat,Kitten,Female,Yes,Yes,adopted,friendly
+Dog,Puppy,Female,No,Yes,adopted,active
+Dog,Adult,Female,No,Yes,rescued,loving
+Dog,Puppy,Female,Yes,Yes,rescued,friendly
+Cat,Adult,Male,Yes,Yes,adopted,soft
+Cat,Kitten,Male,No,No,adopted,"cute, easy, playful"
+Dog,Adult,Male,Yes,No,adopted,active
+Dog,Adult,Male,No,No,rescued,"loving, friendly"
+Cat,Kitten,Female,No,No,adopted,"loving, easy"
+Dog,Puppy,Male,Yes,Yes,adopted,"friendly, active, playful"
+Dog,Adult,Male,No,Yes,adopted,sweet
+Cat,Kitten,Male,Yes,No,adopted,"cute, active"
+Dog,Adult,Female,Yes,Yes,adopted,"calm, gentle, friendly, loyal, obedient"
+Cat,Kitten,Male,Yes,Yes,adopted,friendly
+Dog,Puppy,Male,Yes,No,adopted,loving
+Dog,Puppy,Female,Not Sure,Not Sure,adopted,"active, obedient, cute"
+Cat,Kitten,Male,No,No,rescued,"sweet, friendly"
+Dog,Adult,Female,Yes,Yes,adopted,"friendly, easy"
+Dog,Puppy,Male,No,No,adopted,active
+Dog,Puppy,Male,Yes,Not Sure,adopted,friendly
+Cat,Kitten,Female,No,No,adopted,loving
+Cat,Kitten,Female,No,No,adopted,soft
+Dog,Adult,Male,Yes,Yes,adopted,friendly
+Dog,Puppy,Male,Yes,No,rescued,active
+Dog,Puppy,Female,No,No,rescued,"active, friendly"
+Dog,Adult,Female,Yes,Yes,adopted,"active, playful, obedient"
+Dog,Puppy,Female,Yes,No,rescued,cute
+Dog,Puppy,Male,No,No,adopted,calm
+Dog,Puppy,Male,Not Sure,No,adopted,sweet
+Cat,Kitten,Female,No,No,adopted,"active, playful"
+Dog,Adult,Female,Yes,Yes,adopted,"fast, wise, smart"
+Dog,Puppy,Male,Yes,No,adopted,"cute, playful"
+Dog,Puppy,Female,Not Sure,Yes,adopted,"cute, obedient, friendly, playful, active"
+Dog,Adult,Female,Not Sure,Yes,rescued,"protective, friendly"
+Dog,Adult,Male,Yes,Yes,adopted,obedient
+Cat,Kitten,Female,Yes,No,adopted,"sweet, warm"
+Dog,Puppy,Female,No,No,adopted,"playful, sweet"
+Cat,Kitten,Female,No,No,adopted,"cute, active, playful"
+Dog,Puppy,Female,Yes,No,adopted,active
+Cat,Kitten,Female,Yes,No,rescued,"active, playful, affectionate, independent"
+Dog,Senior,Male,Not Sure,Not Sure,rescued,"warm, obedient, easy, precious, loving"
+Dog,Puppy,Female,No,No,adopted,"playful, loving"
+Dog,Adult,Female,Yes,No,adopted,friendly
+Cat,Adult,Male,Yes,No,adopted,friendly
+Dog,Adult,Male,Yes,Yes,adopted,"loving, sweet, funny, loving, affectionate, sweet, fast, loving"
+Dog,Adult,Male,Yes,No,adopted,smart
+Cat,Kitten,Male,No,No,rescued,"playful, active"
+Dog,Puppy,Male,Yes,Yes,rescued,gentle
+Dog,Adult,Female,Not Sure,Not Sure,rescued,"loving, loving"
+Dog,Puppy,Male,Yes,No,rescued,"sweet, friendly, playful"
+Dog,Puppy,Female,No,No,adopted,"affectionate, warm, cute, loving"
+Cat,Kitten,Male,Yes,No,adopted,"playful, energetic"
+Cat,Adult,Male,No,No,adopted,energetic
+Dog,Puppy,Male,No,No,adopted,cute
+Dog,Adult,Female,Yes,Yes,adopted,"gentle, playful"
+Dog,Adult,Female,Yes,Yes,rescued,"sweet, calm, gentle, loyal"
+Cat,Adult,Female,Not Sure,Yes,adopted,"friendly, playful, gentle"
+Dog,Adult,Male,Yes,Yes,rescued,loving
+Cat,Adult,Female,Not Sure,Yes,adopted,soft
+Cat,Adult,Male,No,No,adopted,sweet
+Cat,Kitten,Female,Yes,No,adopted,active
+Dog,Adult,Female,Not Sure,Not Sure,rescued,friendly
+Dog,Adult,Male,Yes,Yes,adopted,energetic
+Cat,Kitten,Male,Not Sure,No,adopted,"active, playful"
+Dog,Adult,Male,Yes,Yes,rescued,"loving, warm, smart, warm"
+Cat,Kitten,Male,No,No,rescued,loving
+Cat,Kitten,Female,No,No,adopted,playful
+Dog,Puppy,Male,Yes,No,adopted,sweet
+Cat,Adult,Male,Yes,Yes,rescued,independent
+Dog,Adult,Male,Yes,No,adopted,"playful, obedient"
+Dog,Adult,Male,Not Sure,No,rescued,active
+Dog,Adult,Female,Yes,No,rescued,"tender, loving"
+Dog,Puppy,Male,No,No,adopted,"cute, sweet"
+Dog,Adult,Female,Yes,Yes,adopted,"friendly, independent"
+Dog,Puppy,Female,No,No,adopted,playful
+Dog,Puppy,Female,No,No,adopted,playful
+Cat,Kitten,Male,Yes,Not Sure,adopted,"playful, active"
+Dog,Adult,Female,Yes,Not Sure,adopted,"cute, loving, gentle"
+Cat,Kitten,Male,Not Sure,Not Sure,rescued,cute
+Dog,Puppy,Male,Yes,Not Sure,adopted,playful
+Cat,Adult,Female,No,No,adopted,playful
+Dog,Puppy,Male,Yes,Yes,adopted,friendly
+Cat,Kitten,Male,Yes,No,rescued,"active, loving, playful, friendly, friendly"
+Cat,Kitten,Female,Yes,Yes,adopted,"sweet, loving"
+Dog,Puppy,Female,No,No,rescued,"cute, cute, playful, soft"
+Dog,Puppy,Male,No,No,adopted,loyal
+Dog,Adult,Male,Yes,Yes,rescued,"loving, loving"
+Cat,Adult,Female,Yes,Yes,rescued,"friendly, affectionate, friendly"
+Dog,Puppy,Female,No,No,adopted,sweet
+Cat,Kitten,Male,No,No,adopted,active
+Cat,Kitten,Female,No,No,adopted,"sweet, sweet"
+Cat,Kitten,Male,Yes,Not Sure,adopted,"playful, curious"
+Dog,Adult,Female,Yes,No,adopted,"cute, active"
+Cat,Kitten,Female,Not Sure,Not Sure,rescued,"cute, loving"
+Cat,Adult,Female,Yes,No,rescued,"loving, playful"
+Cat,Kitten,Male,Not Sure,Not Sure,rescued,active
+Dog,Puppy,Female,Yes,No,adopted,playful
+Dog,Puppy,Female,Yes,No,adopted,"friendly, playful, cute"
+Cat,Kitten,Female,No,No,adopted,"independent, loving"
+Cat,Kitten,Female,Yes,No,adopted,playful
+Cat,Kitten,Female,Yes,Yes,rescued,"playful, affectionate, friendly"
+Cat,Kitten,Female,Not Sure,Not Sure,adopted,"cute, friendly, active"
+Cat,Kitten,Female,Yes,Yes,rescued,"fresh, precious"
+Dog,Adult,Female,Yes,Yes,adopted,loving
+Dog,Puppy,Male,No,No,adopted,active
+Dog,Puppy,Female,No,No,adopted,"friendly, funny"
+Dog,Puppy,Male,Yes,No,rescued,"friendly, cute"
+Dog,Puppy,Female,Yes,No,rescued,"active, energetic"
+Cat,Kitten,Male,No,No,adopted,"active, loving"
+Dog,Adult,Male,Yes,Yes,adopted,playful
+Dog,Puppy,Female,Yes,No,rescued,sweet
+Dog,Adult,Female,Not Sure,Yes,adopted,"affectionate, cute, sweet, loving"
+Cat,Kitten,Female,No,No,rescued,"calm, curious"
+Cat,Kitten,Male,No,No,rescued,playful
+Dog,Puppy,Female,No,No,adopted,active
+Cat,Adult,Male,Yes,No,adopted,"loving, obedient"
+Dog,Adult,Female,Yes,Yes,rescued,"loyal, obedient"
+Dog,Adult,Male,Yes,Yes,adopted,"obedient, playful, gentle"
+Cat,Kitten,Male,No,No,adopted,active
+Dog,Puppy,Female,Yes,No,rescued,"loving, playful"
+Cat,Kitten,Male,Yes,No,adopted,friendly
+Dog,Puppy,Female,No,No,adopted,active
+Cat,Adult,Female,Yes,Yes,adopted,"active, smart"
+Cat,Adult,Female,Yes,Yes,adopted,"sweet, curious, friendly, funny"
+Dog,Adult,Female,Yes,Yes,adopted,active
+Dog,Puppy,Male,Yes,No,adopted,playful
+Dog,Puppy,Female,No,Yes,adopted,friendly
+Dog,Puppy,Female,No,No,rescued,"loving, smart, easy, friendly, loving, obedient, obedient, loyal"
+Cat,Adult,Male,Yes,Yes,adopted,active
+Dog,Puppy,Female,No,No,adopted,"cute, friendly"
+Dog,Adult,Female,Not Sure,Yes,adopted,loving
+Dog,Puppy,Female,Yes,Yes,adopted,"playful, loyal"
+Dog,Puppy,Male,No,No,adopted,"cute, calm"
+Cat,Adult,Male,Not Sure,Not Sure,adopted,cute
+Dog,Puppy,Male,Yes,No,rescued,cute
+Cat,Kitten,Female,Yes,Yes,adopted,smart
+Dog,Adult,Male,Not Sure,Not Sure,adopted,smart
+Dog,Adult,Female,Yes,Yes,adopted,"sweet, sweet"
+Dog,Puppy,Female,Yes,No,adopted,"sweet, friendly, playful, sweet"
+Dog,Puppy,Female,Yes,Yes,rescued,cute
+Cat,Kitten,Male,No,No,adopted,affectionate
+Cat,Kitten,Female,No,No,adopted,"active, cute"
+Dog,Puppy,Male,No,No,adopted,cute
+Dog,Puppy,Female,Yes,No,rescued,calm
+Dog,Puppy,Female,Yes,No,adopted,calm
+Cat,Kitten,Female,No,No,adopted,sweet
+Cat,Kitten,Male,Yes,Yes,adopted,"curious, fast, smart, friendly, warm"
+Dog,Puppy,Male,Yes,No,adopted,active
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,friendly
+Cat,Kitten,Female,No,No,rescued,affectionate
+Cat,Kitten,Female,No,No,adopted,precious
+Cat,Kitten,Male,No,No,rescued,active
+Cat,Kitten,Female,No,No,adopted,"loving, loving, active, playful"
+Cat,Kitten,Female,Yes,Yes,adopted,sweet
+Dog,Puppy,Male,Yes,No,rescued,smart
+Dog,Puppy,Female,Not Sure,No,adopted,affectionate
+Cat,Kitten,Female,Not Sure,No,adopted,cute
+Dog,Puppy,Female,Yes,No,adopted,"smart, easy"
+Dog,Puppy,Female,No,No,adopted,"warm, loving, active, cute"
+Cat,Adult,Female,Yes,Yes,adopted,loving
+Dog,Adult,Male,Yes,Yes,adopted,"protective, active, loyal"
+Cat,Kitten,Male,No,No,adopted,active
+Dog,Puppy,Female,No,No,rescued,gentle
+Cat,Kitten,Female,No,No,adopted,cute
+Dog,Puppy,Female,No,No,rescued,"soft, smart"
+Dog,Puppy,Male,No,No,rescued,"docile, obedient, active, playful, loyal, gentle"
+Dog,Puppy,Male,Yes,No,adopted,loving
+Dog,Puppy,Male,No,No,rescued,loving
+Cat,Kitten,Male,Not Sure,Not Sure,rescued,friendly
+Cat,Kitten,Male,Yes,No,rescued,"active, playful"
+Cat,Adult,Female,No,No,adopted,"friendly, friendly"
+Dog,Adult,Female,Yes,No,adopted,"loving, loving"
+Dog,Puppy,Female,Yes,No,adopted,friendly
+Dog,Puppy,Female,Not Sure,Not Sure,rescued,"playful, active"
+Dog,Puppy,Male,No,No,adopted,smart
+Cat,Kitten,Male,Yes,Yes,adopted,playful
+Cat,Adult,Male,No,Yes,rescued,"friendly, affectionate, obedient, docile"
+Cat,Kitten,Female,No,No,rescued,"active, playful"
+Dog,Puppy,Female,Yes,No,rescued,easy
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,friendly
+Dog,Puppy,Female,No,No,rescued,energetic
+Dog,Adult,Female,No,No,rescued,"protective, sweet, fast, gentle"
+Cat,Kitten,Female,Not Sure,No,adopted,"cute, soft, affectionate, playful"
+Dog,Puppy,Female,No,No,rescued,warm
+Cat,Kitten,Male,No,No,adopted,playful
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,friendly
+Cat,Kitten,Male,Yes,No,rescued,"cute, active"
+Dog,Adult,Female,Yes,Yes,adopted,friendly
+Cat,Kitten,Female,No,No,adopted,active
+Dog,Puppy,Male,Yes,Yes,adopted,playful
+Dog,Puppy,Female,Yes,No,adopted,"cute, cute"
+Cat,Kitten,Male,No,No,adopted,"active, easy"
+Dog,Puppy,Female,Yes,Yes,rescued,"gentle, gentle, gentle, easy, loyal, affectionate, gentle, friendly, friendly, docile"
+Dog,Puppy,Male,Yes,No,rescued,"obedient, smart"
+Dog,Puppy,Male,Not Sure,Not Sure,adopted,cute
+Cat,Kitten,Male,No,No,rescued,"active, independent"
+Cat,Kitten,Female,Yes,Yes,adopted,"warm, active"
+Dog,Adult,Male,Yes,Yes,rescued,friendly
+Cat,Adult,Male,Yes,No,adopted,active
+Dog,Adult,Female,Yes,No,adopted,"smart, friendly"
+Dog,Adult,Female,Yes,Yes,rescued,"playful, cute, active"
+Cat,Kitten,Male,No,No,rescued,"playful, cute"
+Cat,Adult,Male,Yes,Not Sure,rescued,"loving, sweet"
+Dog,Puppy,Male,No,No,adopted,obedient
+Dog,Puppy,Female,No,No,adopted,cute
+Cat,Adult,Male,Yes,Yes,adopted,friendly
+Dog,Adult,Male,Not Sure,Not Sure,adopted,"playful, active"
+Dog,Adult,Female,Not Sure,Not Sure,rescued,loving
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,"cute, loving"
+Dog,Adult,Female,Yes,Not Sure,rescued,"friendly, gentle"
+Cat,Kitten,Female,No,No,adopted,"sweet, friendly, loving"
+Dog,Puppy,Male,Yes,No,adopted,friendly
+Cat,Kitten,Female,No,No,adopted,friendly
+Dog,Puppy,Female,Yes,No,adopted,"soft, sweet"
+Dog,Puppy,Female,Not Sure,No,rescued,"playful, cute"
+Dog,Adult,Female,Not Sure,Not Sure,adopted,sweet
+Dog,Adult,Female,Not Sure,No,rescued,cute
+Dog,Puppy,Female,No,No,adopted,protective
+Cat,Kitten,Male,No,No,adopted,soft
+Dog,Adult,Male,Yes,Yes,rescued,"playful, loving"
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,"cute, friendly"
+Dog,Puppy,Male,Yes,No,adopted,smart
+Dog,Adult,Male,Yes,Yes,adopted,"obedient, smart"
+Dog,Puppy,Female,Not Sure,No,adopted,friendly
+Cat,Kitten,Male,Yes,Yes,rescued,"sweet, loving"
+Dog,Puppy,Male,Not Sure,Not Sure,rescued,friendly
+Cat,Adult,Male,Yes,Yes,adopted,friendly
+Dog,Puppy,Male,No,Not Sure,adopted,cute
+Cat,Kitten,Male,No,No,adopted,"active, playful"
+Dog,Adult,Male,Yes,Yes,adopted,"sweet, playful, warm, friendly"
+Cat,Kitten,Female,No,No,adopted,"cute, active, fast"
+Dog,Puppy,Female,No,Not Sure,adopted,friendly
+Dog,Puppy,Female,Yes,No,rescued,cute
+Cat,Adult,Male,Yes,Yes,rescued,tender
+Dog,Puppy,Male,Yes,Yes,rescued,friendly
+Cat,Adult,Female,Not Sure,Yes,rescued,"gentle, friendly"
+Cat,Kitten,Female,Not Sure,Not Sure,adopted,"gentle, loving"
+Cat,Kitten,Male,No,No,adopted,cute
+Dog,Puppy,Male,No,No,rescued,loving
+Dog,Puppy,Female,Yes,No,rescued,active
+Dog,Puppy,Male,Yes,Yes,adopted,"energetic, friendly, playful"
+Cat,Kitten,Female,No,No,rescued,"active, active, playful, soft, active, playful"
+Cat,Kitten,Male,No,No,rescued,friendly
+Dog,Adult,Male,Yes,Yes,rescued,"friendly, active"
+Dog,Puppy,Female,Yes,No,rescued,gentle
+Cat,Kitten,Female,No,No,adopted,active
+Dog,Adult,Male,Yes,Yes,rescued,loving
+Cat,Kitten,Male,No,No,adopted,active
+Cat,Kitten,Male,Yes,No,adopted,playful
+Cat,Kitten,Female,Yes,Yes,adopted,friendly
+Dog,Puppy,Female,Yes,Yes,adopted,"loving, cute"
+Dog,Adult,Female,Not Sure,Yes,adopted,"loving, loving, loving"
+Dog,Puppy,Male,Yes,No,adopted,friendly
+Dog,Adult,Female,Not Sure,Not Sure,rescued,"friendly, independent, loving"
+Cat,Adult,Male,No,Yes,adopted,"obedient, main"
+Cat,Kitten,Female,Not Sure,Not Sure,rescued,"friendly, gentle"
+Dog,Puppy,Male,Yes,Yes,adopted,"affectionate, friendly, loving"
+Cat,Kitten,Male,Yes,No,adopted,"active, cute"
+Cat,Adult,Male,No,Yes,adopted,"active, friendly"
+Dog,Adult,Male,No,No,rescued,playful
+Dog,Puppy,Female,No,No,adopted,cute
+Dog,Adult,Male,Yes,No,adopted,playful
+Dog,Puppy,Male,No,No,adopted,"active, playful"
+Cat,Kitten,Female,No,No,rescued,affectionate
+Cat,Adult,Female,Yes,Yes,rescued,"gentle, loving"
+Dog,Adult,Female,Yes,Yes,adopted,sweet
+Cat,Kitten,Female,No,No,rescued,"cute, soft, active, playful"
+Cat,Kitten,Female,No,No,adopted,"cute, friendly"
+Cat,Kitten,Male,No,No,adopted,loving
+Dog,Puppy,Male,No,No,rescued,main
+Dog,Senior,Female,Yes,Yes,adopted,friendly
+Cat,Adult,Male,Not Sure,Not Sure,rescued,cute
+Dog,Puppy,Female,No,No,rescued,soft
+Cat,Kitten,Male,No,No,adopted,playful
+Cat,Kitten,Female,Yes,No,adopted,"cute, playful"
+Cat,Kitten,Male,No,No,rescued,loving
+Dog,Puppy,Male,Yes,No,adopted,"active, obedient"
+Dog,Adult,Male,Yes,Yes,adopted,firm
+Dog,Puppy,Female,No,Yes,adopted,"warm, obedient"
+Cat,Kitten,Male,No,No,rescued,gentle
+Dog,Adult,Female,Yes,Yes,adopted,active
+Cat,Kitten,Male,Yes,No,adopted,cute
+Cat,Kitten,Female,No,No,adopted,gentle
+Cat,Kitten,Male,Yes,No,adopted,fond
+Dog,Puppy,Female,Yes,No,rescued,"sweet, loyal"
+Dog,Puppy,Female,No,No,adopted,"active, playful, loving"
+Dog,Puppy,Male,Not Sure,No,adopted,sweet
+Cat,Kitten,Female,No,No,adopted,loving
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Puppy,Male,No,Not Sure,adopted,loving
+Dog,Adult,Male,Yes,No,adopted,playful
+Cat,Kitten,Female,Not Sure,Not Sure,adopted,curious
+Dog,Puppy,Female,Yes,No,adopted,"smart, obedient"
+Cat,Adult,Female,Yes,Yes,rescued,"calm, playful"
+Dog,Puppy,Male,No,No,adopted,loving
+Dog,Puppy,Male,Not Sure,Not Sure,rescued,active
+Cat,Kitten,Female,No,No,adopted,playful
+Dog,Puppy,Female,Not Sure,Not Sure,adopted,"cute, independent, cute"
+Dog,Adult,Male,Yes,Yes,adopted,"sweet, loving"
+Cat,Kitten,Female,No,No,rescued,"sweet, calm"
+Dog,Puppy,Female,Not Sure,Not Sure,adopted,friendly
+Dog,Adult,Male,Not Sure,Yes,adopted,sweet
+Dog,Puppy,Male,Yes,No,rescued,cute
+Dog,Puppy,Female,Not Sure,No,rescued,"soft, loving"
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,main
+Cat,Kitten,Male,No,No,adopted,"curious, playful"
+Dog,Puppy,Female,Yes,No,adopted,fast
+Cat,Adult,Female,Yes,Yes,rescued,friendly
+Cat,Kitten,Female,Yes,No,adopted,"playful, active"
+Dog,Puppy,Male,No,No,adopted,cute
+Dog,Adult,Female,Yes,Yes,rescued,"active, smart, loving, loving"
+Cat,Adult,Male,No,Yes,adopted,fast
+Dog,Adult,Female,Yes,No,adopted,active
+Dog,Puppy,Male,No,No,adopted,playful
+Dog,Adult,Male,Yes,No,rescued,"active, friendly, loving"
+Dog,Adult,Male,Yes,No,adopted,smart
+Cat,Adult,Male,Yes,Yes,adopted,"smart, loving"
+Dog,Adult,Female,No,No,adopted,"friendly, sweet, energetic, friendly"
+Cat,Kitten,Female,Yes,Yes,rescued,"active, playful"
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Adult,Female,Yes,Yes,adopted,"loving, friendly, loyal"
+Cat,Kitten,Female,No,No,adopted,"affectionate, playful"
+Cat,Kitten,Female,No,No,adopted,cute
+Dog,Adult,Female,Yes,Yes,adopted,loyal
+Dog,Puppy,Female,No,No,adopted,"sweet, playful"
+Dog,Adult,Male,No,No,adopted,friendly
+Dog,Puppy,Female,Yes,No,rescued,loving
+Dog,Puppy,Male,Yes,No,rescued,"gentle, gentle, soft"
+Cat,Kitten,Male,Yes,No,adopted,"cute, playful"
+Cat,Kitten,Male,No,No,rescued,playful
+Dog,Puppy,Male,No,No,adopted,loving
+Cat,Kitten,Female,No,Yes,adopted,"playful, friendly, easy"
+Cat,Kitten,Female,No,No,rescued,"cute, active, playful"
+Cat,Kitten,Male,No,No,adopted,"cute, independent"
+Cat,Kitten,Female,Not Sure,Not Sure,rescued,cute
+Cat,Kitten,Female,No,No,adopted,sweet
+Dog,Adult,Male,Yes,No,rescued,friendly
+Dog,Puppy,Male,Yes,No,adopted,active
+Cat,Kitten,Male,No,No,adopted,cute
+Dog,Adult,Male,Not Sure,Not Sure,adopted,"gentle, sweet"
+Dog,Adult,Female,Yes,No,adopted,"active, friendly"
+Dog,Puppy,Male,No,No,adopted,smart
+Cat,Adult,Female,Yes,Not Sure,adopted,cute
+Cat,Kitten,Female,Not Sure,No,adopted,"easy, independent"
+Dog,Adult,Female,Yes,Yes,adopted,main
+Dog,Puppy,Male,Yes,Not Sure,adopted,energetic
+Dog,Puppy,Male,No,No,rescued,"cute, active"
+Dog,Puppy,Female,Not Sure,No,adopted,playful
+Dog,Puppy,Female,No,No,rescued,"loyal, warm, sweet, loving"
+Cat,Kitten,Male,No,No,rescued,"playful, calm"
+Dog,Adult,Male,Yes,Yes,adopted,"affectionate, calm"
+Dog,Puppy,Female,No,No,rescued,"smart, obedient"
+Cat,Kitten,Female,No,No,adopted,"precious, playful, precious"
+Dog,Puppy,Male,No,No,adopted,playful
+Dog,Adult,Male,No,Yes,rescued,"loving, easy"
+Dog,Adult,Male,Not Sure,Not Sure,adopted,"active, playful"
+Dog,Puppy,Female,Yes,Not Sure,rescued,playful
+Dog,Adult,Female,Yes,Yes,adopted,playful
+Dog,Adult,Male,Yes,Yes,adopted,"active, loving, friendly"
+Cat,Kitten,Female,Yes,Yes,rescued,"active, loving"
+Cat,Kitten,Male,No,No,rescued,smart
+Cat,Adult,Male,Yes,Yes,adopted,active
+Dog,Adult,Male,Yes,Yes,adopted,"playful, loving"
+Dog,Adult,Male,Not Sure,No,adopted,"friendly, obedient"
+Cat,Kitten,Female,Yes,Yes,adopted,"friendly, loving, funny, loving, loving, friendly"
+Dog,Puppy,Female,Yes,Yes,adopted,sweet
+Dog,Puppy,Female,Yes,No,rescued,"active, smart"
+Cat,Kitten,Female,No,No,adopted,"active, playful"
+Cat,Kitten,Female,No,No,adopted,sweet
+Cat,Kitten,Male,No,No,adopted,active
+Dog,Puppy,Female,Yes,Yes,rescued,playful
+Cat,Kitten,Male,No,No,rescued,"cute, soft, cute"
+Dog,Puppy,Male,No,No,adopted,loving
+Cat,Kitten,Female,No,No,rescued,smart
+Dog,Puppy,Female,Yes,No,adopted,energetic
+Cat,Adult,Male,Yes,Yes,adopted,"independent, loving"
+Cat,Kitten,Female,No,No,adopted,cute
+Dog,Puppy,Female,No,No,rescued,"friendly, main"
+Dog,Adult,Male,Yes,Yes,adopted,"playful, energetic, smart"
+Cat,Kitten,Female,No,No,adopted,cute
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Adult,Male,Yes,No,adopted,"active, loyal"
+Cat,Kitten,Female,Yes,No,rescued,playful
+Dog,Puppy,Female,Yes,Yes,adopted,"loving, cute"
+Dog,Puppy,Female,Yes,No,adopted,"active, playful, gentle, sweet, fast"
+Dog,Adult,Male,Not Sure,No,adopted,gentle
+Dog,Adult,Male,Yes,No,adopted,"active, active"
+Cat,Adult,Male,Yes,Yes,adopted,"bright, loyal"
+Dog,Adult,Male,Yes,Yes,adopted,"loving, affectionate"
+Dog,Puppy,Female,Yes,No,adopted,"cute, tender"
+Cat,Kitten,Female,Not Sure,No,adopted,"playful, affectionate"
+Cat,Kitten,Female,No,No,adopted,sweet
+Dog,Puppy,Male,Yes,Yes,adopted,active
+Cat,Adult,Female,Yes,Yes,rescued,"fresh, precious"
+Dog,Puppy,Male,Yes,Yes,adopted,playful
+Dog,Puppy,Female,No,No,rescued,friendly
+Cat,Kitten,Female,Yes,Yes,rescued,"gentle, cute, soft, fresh"
+Cat,Kitten,Male,Yes,No,adopted,"calm, playful"
+Dog,Puppy,Male,No,No,rescued,warm
+Dog,Puppy,Male,Yes,Not Sure,adopted,"active, friendly, playful"
+Dog,Puppy,Male,Yes,Yes,adopted,active
+Dog,Puppy,Female,Yes,No,rescued,loving
+Dog,Puppy,Female,Yes,No,adopted,cute
+Cat,Kitten,Male,No,No,adopted,friendly
+Dog,Puppy,Male,No,Yes,adopted,active
+Dog,Puppy,Female,Yes,No,rescued,friendly
+Cat,Kitten,Female,Not Sure,Not Sure,adopted,active
+Dog,Adult,Female,Yes,Yes,rescued,"playful, obedient, obedient"
+Dog,Puppy,Female,Yes,Yes,adopted,affectionate
+Dog,Puppy,Male,Not Sure,Yes,rescued,"cute, sweet, sweet"
+Cat,Adult,Female,Yes,No,rescued,playful
+Dog,Adult,Female,Yes,No,adopted,"friendly, loving"
+Cat,Kitten,Female,Yes,No,adopted,sweet
+Dog,Puppy,Female,Yes,Yes,adopted,"gentle, loving, obedient, loving"
+Dog,Puppy,Male,No,No,adopted,"cute, sweet, playful"
+Dog,Puppy,Female,Yes,No,adopted,friendly
+Cat,Kitten,Male,No,No,adopted,"independent, friendly"
+Cat,Adult,Male,No,Yes,adopted,"cute, bright, loving"
+Dog,Puppy,Male,Yes,No,adopted,"gentle, obedient, playful"
+Dog,Adult,Female,Yes,Not Sure,rescued,friendly
+Dog,Puppy,Female,Yes,No,adopted,"friendly, loving"
+Cat,Kitten,Female,No,Yes,rescued,"loving, playful"
+Dog,Adult,Female,Yes,Yes,adopted,"protective, loving"
+Dog,Puppy,Female,Yes,Yes,rescued,"sweet, gentle, obedient, loving, loving, sweet"
+Dog,Adult,Female,Yes,Not Sure,adopted,"cute, playful, gentle"
+Dog,Puppy,Female,No,No,adopted,"cute, active, independent, sweet"
+Dog,Senior,Female,Not Sure,Not Sure,adopted,sweet
+Cat,Kitten,Female,No,No,rescued,"affectionate, friendly, playful"
+Dog,Adult,Female,Yes,Yes,adopted,friendly
+Cat,Kitten,Female,No,No,adopted,"playful, active, cute"
+Dog,Puppy,Female,Yes,Yes,adopted,"loyal, friendly"
+Cat,Kitten,Female,Not Sure,No,adopted,cute
+Cat,Kitten,Male,No,No,adopted,sweet
+Cat,Kitten,Male,No,No,adopted,"active, playful"
+Dog,Adult,Female,Yes,No,adopted,cute
+Dog,Puppy,Female,No,No,adopted,sweet
+Dog,Puppy,Male,Yes,No,adopted,"cute, playful, fast"
+Cat,Kitten,Female,No,No,rescued,"playful, affectionate"
+Dog,Adult,Female,Yes,Yes,adopted,"active, soft, warm, active, active"
+Dog,Puppy,Male,No,No,rescued,sweet
+Dog,Puppy,Male,Yes,Yes,adopted,"friendly, smart, fast"
+Cat,Adult,Male,No,Yes,adopted,"sweet, affectionate, playful, loving"
+Dog,Puppy,Male,No,No,rescued,"playful, warm, loyal"
+Cat,Adult,Male,Not Sure,No,adopted,"playful, soft"
+Dog,Senior,Female,Yes,Yes,rescued,friendly
+Dog,Adult,Male,Not Sure,Not Sure,adopted,sweet
+Dog,Puppy,Female,Yes,No,adopted,sweet
+Dog,Puppy,Female,No,Yes,adopted,"friendly, gentle"
+Dog,Adult,Female,Yes,No,adopted,playful
+Cat,Kitten,Male,Not Sure,Not Sure,adopted,"active, playful"
+Cat,Kitten,Female,Yes,No,rescued,active
+Dog,Puppy,Male,Yes,No,rescued,loving
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Puppy,Male,Yes,Yes,adopted,energetic
+Cat,Adult,Female,Yes,Yes,adopted,loving
+Cat,Kitten,Male,No,No,adopted,active
+Dog,Adult,Male,Yes,Yes,adopted,"smart, loyal"
+Dog,Adult,Female,Yes,No,adopted,"playful, friendly, friendly"
+Cat,Kitten,Male,Yes,Yes,adopted,"playful, friendly"
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Puppy,Female,No,No,adopted,loyal
+Dog,Senior,Female,Not Sure,Not Sure,rescued,warm
+Dog,Adult,Female,Not Sure,Not Sure,rescued,"cute, loving, loving"
+Dog,Puppy,Female,Yes,No,rescued,"friendly, playful, active"
+Dog,Puppy,Female,No,No,adopted,friendly
+Cat,Kitten,Male,No,No,adopted,loving
+Cat,Kitten,Male,No,No,adopted,"loyal, sweet, active"
+Dog,Puppy,Male,Yes,No,adopted,obedient
+Dog,Puppy,Female,No,No,adopted,sweet
+Dog,Puppy,Female,No,No,adopted,warm
+Cat,Kitten,Male,No,No,adopted,cute
+Dog,Adult,Male,Yes,No,adopted,playful
+Cat,Kitten,Female,No,No,adopted,"playful, active, cute"
+Dog,Puppy,Male,Not Sure,Not Sure,rescued,"friendly, smart"
+Cat,Kitten,Female,No,No,adopted,"active, cute"
+Dog,Puppy,Male,Yes,Yes,adopted,playful
+Dog,Puppy,Male,No,No,rescued,active
+Dog,Puppy,Male,No,No,adopted,"funny, active"
+Cat,Kitten,Male,No,No,adopted,"playful, active"
+Dog,Puppy,Female,No,No,adopted,"active, cute"
+Dog,Puppy,Male,Yes,Yes,rescued,"sweet, friendly, sweet"
+Dog,Adult,Male,Yes,No,adopted,"friendly, playful, active, obedient, smart"
+Cat,Kitten,Male,No,No,adopted,"fast, warm"
+Cat,Kitten,Female,No,No,adopted,active
+Dog,Adult,Female,No,Yes,adopted,"loving, active, fast"
+Dog,Puppy,Female,Not Sure,Not Sure,rescued,friendly
+Cat,Kitten,Female,No,No,adopted,"active, protective"
+Dog,Adult,Female,Not Sure,Not Sure,rescued,loving
+Dog,Puppy,Female,No,No,rescued,loving
+Dog,Puppy,Female,No,Not Sure,rescued,"sweet, active"
+Cat,Adult,Male,No,No,rescued,"active, playful, smart, cute"
+Dog,Adult,Male,Yes,Yes,rescued,sweet
+Dog,Puppy,Female,Not Sure,Not Sure,rescued,"friendly, gentle, playful, loving"
+Dog,Puppy,Female,Yes,No,adopted,cute
+Cat,Adult,Male,No,No,adopted,playful
+Dog,Puppy,Female,Yes,Yes,adopted,"active, cute"
+Dog,Puppy,Female,Yes,Not Sure,adopted,"loving, playful"
+Dog,Adult,Male,Yes,Yes,adopted,"cute, smart, friendly"
+Cat,Kitten,Female,No,No,adopted,sweet
+Dog,Puppy,Female,No,No,adopted,"playful, affectionate"
+Dog,Adult,Male,Yes,No,adopted,smart
+Cat,Kitten,Male,No,No,adopted,"active, friendly"
+Cat,Adult,Female,Yes,Yes,adopted,sweet
+Dog,Adult,Male,Yes,No,adopted,"docile, friendly"
+Dog,Puppy,Female,Yes,No,rescued,"playful, friendly"
+Dog,Puppy,Female,No,No,adopted,"friendly, active, loving"
+Cat,Kitten,Male,Yes,Yes,adopted,"cute, playful"
+Cat,Kitten,Male,Yes,No,rescued,"loving, playful, affectionate"
+Dog,Puppy,Female,Yes,Yes,rescued,"loving, loving, friendly"
+Dog,Puppy,Female,Not Sure,Yes,adopted,"playful, friendly"
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Puppy,Female,Yes,Yes,adopted,"cute, friendly"
+Dog,Puppy,Female,Yes,No,adopted,loving
+Cat,Adult,Female,No,Not Sure,adopted,"cute, easy"
+Cat,Kitten,Female,Yes,No,adopted,soft
+Cat,Adult,Female,Yes,Yes,rescued,affectionate
+Cat,Kitten,Male,No,No,adopted,playful
+Dog,Puppy,Male,No,No,adopted,loving
+Dog,Adult,Male,No,No,adopted,active
+Dog,Puppy,Female,Not Sure,Not Sure,adopted,active
+Cat,Kitten,Male,No,No,adopted,"cute, soft"
+Cat,Kitten,Male,Yes,Yes,adopted,"active, playful"
+Cat,Adult,Female,Yes,Yes,adopted,"playful, loving"
+Cat,Adult,Male,Yes,Yes,rescued,active
+Cat,Kitten,Male,Yes,No,adopted,"friendly, playful"
+Dog,Puppy,Male,No,No,rescued,friendly
+Dog,Puppy,Male,No,No,adopted,active
+Dog,Puppy,Male,Not Sure,Not Sure,rescued,"cute, active, smart"
+Dog,Puppy,Male,No,No,adopted,playful
+Dog,Puppy,Male,Yes,No,rescued,"friendly, playful"
+Cat,Kitten,Female,Yes,No,adopted,friendly
+Cat,Kitten,Female,No,No,rescued,playful
+Dog,Adult,Male,Yes,Yes,adopted,friendly
+Dog,Adult,Female,Not Sure,No,rescued,loving
+Dog,Adult,Female,Yes,No,adopted,"loyal, playful"
+Dog,Adult,Male,Yes,No,adopted,active
+Dog,Adult,Male,Yes,Yes,adopted,"friendly, playful"
+Dog,Adult,Female,Yes,Yes,rescued,friendly
+Dog,Adult,Male,Yes,Yes,rescued,"gentle, friendly"
+Dog,Puppy,Female,No,No,rescued,"loving, loving"
+Dog,Adult,Female,Yes,Yes,rescued,loving
+Dog,Puppy,Female,Yes,No,adopted,obedient
+Dog,Adult,Female,Yes,Yes,rescued,"loving, loving"
+Cat,Kitten,Female,Yes,No,rescued,"active, easy"
+Cat,Adult,Female,Yes,Yes,adopted,friendly
+Dog,Puppy,Female,Yes,No,rescued,fast
+Cat,Kitten,Female,No,No,rescued,obedient
+Dog,Puppy,Female,No,No,adopted,"active, playful"
+Dog,Puppy,Female,No,No,adopted,loving
+Dog,Puppy,Male,No,No,rescued,loving
+Dog,Adult,Male,Yes,No,adopted,fast
+Cat,Adult,Female,Yes,Yes,rescued,loving
+Dog,Adult,Male,No,No,rescued,"cute, active, energetic"
+Cat,Kitten,Female,No,No,adopted,"affectionate, active, playful"
+Cat,Kitten,Female,No,No,rescued,active
+Cat,Adult,Female,Yes,Yes,adopted,"funny, playful"
+Dog,Puppy,Female,Yes,Not Sure,adopted,cute
+Dog,Adult,Female,Yes,Yes,adopted,"friendly, friendly"
+Dog,Adult,Female,Not Sure,Not Sure,adopted,playful
+Cat,Kitten,Female,Yes,Yes,adopted,cute
+Cat,Adult,Male,Yes,Yes,adopted,friendly
+Dog,Puppy,Female,Not Sure,Not Sure,adopted,loving
+Cat,Adult,Male,No,No,rescued,"friendly, obedient"
+Cat,Adult,Female,Yes,Yes,adopted,loyal
+Cat,Kitten,Female,No,No,rescued,"cute, calm"
+Cat,Kitten,Male,No,Yes,adopted,friendly
+Dog,Puppy,Male,Yes,No,rescued,"playful, active"
+Dog,Puppy,Female,No,No,adopted,cute
+Cat,Kitten,Male,No,No,adopted,sweet
+Cat,Kitten,Male,Yes,Yes,adopted,active
+Cat,Kitten,Female,No,No,adopted,main
+Dog,Puppy,Female,Yes,Not Sure,adopted,friendly
+Dog,Puppy,Female,Yes,Yes,adopted,fast
+Dog,Puppy,Male,Yes,No,rescued,cute
+Cat,Kitten,Female,No,No,adopted,"cute, active"
+Dog,Puppy,Female,Yes,No,rescued,"sweet, loving"
+Cat,Kitten,Female,No,No,adopted,"playful, friendly"
+Dog,Puppy,Male,Yes,No,adopted,playful
+Cat,Kitten,Male,No,Yes,adopted,playful
+Dog,Adult,Female,Not Sure,Not Sure,adopted,warm
+Dog,Puppy,Female,Yes,No,adopted,active
+Dog,Puppy,Female,No,No,rescued,friendly
+Cat,Kitten,Female,Yes,No,rescued,"loving, curious"
+Dog,Puppy,Female,Yes,No,rescued,loving
+Dog,Adult,Female,No,No,adopted,playful
+Cat,Kitten,Male,Yes,No,adopted,"warm, fast"
+Dog,Adult,Female,No,Yes,rescued,friendly
+Dog,Adult,Male,Yes,Yes,rescued,active
+Dog,Adult,Male,Yes,Yes,adopted,"playful, smart"
+Dog,Adult,Female,Yes,Yes,adopted,"loving, friendly, loving, obedient"
+Cat,Adult,Male,Yes,Yes,rescued,"sweet, smart"
+Cat,Kitten,Female,No,No,adopted,affectionate

@@ -1,0 +1,67 @@
+POST http://localhost:8080/request/form HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+    "email": "hectorvalles027@gmail.com",
+    "fullname": "Hector Valles",
+    "age": "26-35 years old",
+    "gender": "Male",
+    "civil_status": "Divorced",
+    "employment_status": "Yes",
+    "employment_status_reason": "Yes, I work full-time, but my job keeps me very busy, so I’m not sure I’d have the time or flexibility to care for a pet properly",
+    "interest_in_adoption": "Yes",
+    "interest_in_adoption_reason": "Yes, I’ve been thinking about adopting for a while.",
+    "housing_ownership": "Own",
+    "housing_ownership_reason": "None",
+    "gated_community_status": "Yes",
+    "gated_community_status_reason": "Yes, my area is gated, but I’m concerned that it might not be enough to fully ensure a pet's safety, especially if they’re more adventurous.",
+    "pet_living_environment": "Indoors",
+    "pet_living_environment_reason": "None",
+    "children_in_household": "Yes",
+    "children_in_household_reason": "Yes, I have children, and while they love animals, I don’t think they’re old enough yet to properly understand how to treat a pet with respect.",
+    "household_pet_allergies": "Yes",
+    "household_pet_allergies_reason": "Yes, one of my children has allergies, and while I would love a pet, I’m not sure how to manage that situation effectively.",
+    "family_commitment_to_pet": "Yes",
+    "family_commitment_to_pet_reason": "Yes, we’re prepared to welcome a new pet, but after some discussion, we realized that we can’t commit to the lifelong care just yet, given our current situation.",
+    "previous_pet_species": "Cat",
+    "previous_pet_species_details": "I’ve rescued a cat before, but due to work commitments, I wasn’t able to give them the attention they needed, so I had to rehome them. I’m not sure I can handle a pet again just yet.",
+    "previous_pet_age_category": "Adult",
+    "previous_pet_age_category_details": "I rescued an adult cat before, and although I thought I could handle it, I struggled with their behavioral needs and couldn’t keep up with the care they needed.",
+    "previous_pet_gender": "Male",
+    "previous_pet_gender_details": "I rescued a male cat before, but honestly, I wasn’t prepared for the responsibility, and I didn’t manage his needs as well as I should have",
+    "previous_pet_history": "Rescued",
+    "previous_pet_history_details": "I rescued a cat, but I wasn’t able to meet his needs for exercise and attention due to my work schedule, and it wasn’t the right time for me.",
+    "previous_pet_spay_neuter_status": "Spayed",
+    "previous_pet_spay_neuter_status_details": "My previous pet was spayed, but I didn’t realize how much responsibility comes with that, and I wasn’t ready to fully care for them.",
+    "previous_pet_vaccinations_status": "Fully vaccinated",
+    "previous_pet_vaccinations_status_details": "My last pet was vaccinated, but I wasn’t fully prepared to manage their healthcare, and I ended up having to give them up.",
+    "previous_pet_temperament": "Independent",
+    "previous_pet_temperament_details": "I provided clear boundaries and consistent training to ensure they felt secure while respecting their space and independence.",
+    "new_pet_vaccination_willingness": "Yes",
+    "new_pet_vaccination_willingness_description": "Yes, I understand the importance of vaccinations, but I wasn’t able to keep up with them with my previous pet, and I’m not sure I can manage that responsibility again",
+    "spay_neuter_willingness": "Yes",
+    "spay_neuter_willingness_description": "Yes, I’d be willing, but I’m not sure I can handle the financial and emotional responsibility of the procedure right now, given my past experiences",
+    "pet_transfer_willingness": "Yes",
+    "pet_transfer_willingness_description": "None",
+    "new_pet_long_term_commitment": "No",
+    "new_pet_long_term_commitment_description": "No, I don’t feel ready for such a long-term commitment due to my current life situation and uncertainties.",
+    "follow_up_permission": "No",
+    "follow_up_permission_description": "No, I’d prefer not to have periodic check-ins, as I’m not sure I can maintain that level of involvement."
+}
+
+####
+
+POST http://localhost:8080/recommendations/8 HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+    "desired_pet_type": "Dog",
+    "desired_pet_age": "Puppy",
+    "desired_pet_gender": "Male",
+    "desired_pet_story": "Adopted",
+    "desired_pet_spay_neuter_status": "Spayed",
+    "desired_pet_vaccination_status": "Fully Vaccinated",
+    "desired_pet_temperament": "Protective"
+}
